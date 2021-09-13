@@ -9,7 +9,7 @@
   * http://localhost:8080/atos/h2-console
       * Driver class : org.h2.Driver
       * JBDC URL : jdbc:h2:mem:testdb
-       * (à modifier si vous voulez que les données soient persistentes)
+        * (à modifier si vous voulez que les données soient persistentes)
       * User name : sa
       * Password : 
 * Pour persiter les données, voir dans application.properties, la propriété :
